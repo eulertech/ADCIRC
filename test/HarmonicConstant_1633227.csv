@@ -1,0 +1,222 @@
+Constituent #,1
+Description,Principal lunar semidiurnal constituent
+Phase,296.2
+Name,M2
+Speed,28.984104
+Amplitude,0.188
+Constituent #,2
+Description,Principal solar semidiurnal constituent
+Phase,305.3
+Name,S2
+Speed,30.0
+Amplitude,0.043
+Constituent #,3
+Description,Larger lunar elliptic semidiurnal constituent
+Phase,278.9
+Name,N2
+Speed,28.43973
+Amplitude,0.046
+Constituent #,4
+Description,Lunar diurnal constituent
+Phase,64.9
+Name,K1
+Speed,15.041069
+Amplitude,0.167
+Constituent #,5
+Description,Shallow water overtides of principal lunar constituent
+Phase,242.4
+Name,M4
+Speed,57.96821
+Amplitude,0.001
+Constituent #,6
+Description,Lunar diurnal constituent
+Phase,45.6
+Name,O1
+Speed,13.943035
+Amplitude,0.113
+Constituent #,7
+Description,Shallow water overtides of principal lunar constituent
+Phase,0.0
+Name,M6
+Speed,86.95232
+Amplitude,0.0
+Constituent #,8
+Description,Shallow water terdiurnal
+Phase,272.1
+Name,MK3
+Speed,44.025173
+Amplitude,0.001
+Constituent #,9
+Description,Shallow water overtides of principal solar constituent
+Phase,189.7
+Name,S4
+Speed,60.0
+Amplitude,0.002
+Constituent #,10
+Description,Shallow water quarter diurnal constituent
+Phase,130.3
+Name,MN4
+Speed,57.423832
+Amplitude,0.001
+Constituent #,11
+Description,Larger lunar evectional constituent
+Phase,287.4
+Name,NU2
+Speed,28.512583
+Amplitude,0.008
+Constituent #,12
+Description,Shallow water overtides of principal solar constituent
+Phase,279.2
+Name,S6
+Speed,90.0
+Amplitude,0.001
+Constituent #,13
+Description,Variational constituent
+Phase,283.2
+Name,MU2
+Speed,27.968208
+Amplitude,0.004
+Constituent #,14
+Description,Lunar elliptical semidiurnal second-order constituent
+Phase,228.6
+Name,2N2
+Speed,27.895355
+Amplitude,0.006
+Constituent #,15
+Description,Lunar diurnal
+Phase,110.6
+Name,OO1
+Speed,16.139101
+Amplitude,0.005
+Constituent #,16
+Description,Smaller lunar evectional constituent
+Phase,334.0
+Name,LAM2
+Speed,29.455626
+Amplitude,0.003
+Constituent #,17
+Description,Solar diurnal constituent
+Phase,80.4
+Name,S1
+Speed,15.0
+Amplitude,0.007
+Constituent #,18
+Description,Smaller lunar elliptic diurnal constituent
+Phase,59.5
+Name,M1
+Speed,14.496694
+Amplitude,0.005
+Constituent #,19
+Description,Smaller lunar elliptic diurnal constituent
+Phase,70.9
+Name,J1
+Speed,15.5854435
+Amplitude,0.012
+Constituent #,20
+Description,Lunar monthly constituent
+Phase,0.0
+Name,MM
+Speed,0.5443747
+Amplitude,0.0
+Constituent #,21
+Description,Solar semiannual constituent
+Phase,0.0
+Name,SSA
+Speed,0.0821373
+Amplitude,0.0
+Constituent #,22
+Description,Solar annual constituent
+Phase,0.0
+Name,SA
+Speed,0.0410686
+Amplitude,0.0
+Constituent #,23
+Description,Lunisolar synodic fortnightly constituent
+Phase,0.0
+Name,MSF
+Speed,1.0158958
+Amplitude,0.0
+Constituent #,24
+Description,Lunisolar fortnightly constituent
+Phase,0.0
+Name,MF
+Speed,1.0980331
+Amplitude,0.0
+Constituent #,25
+Description,Larger lunar evectional diurnal constituent
+Phase,21.4
+Name,RHO
+Speed,13.471515
+Amplitude,0.005
+Constituent #,26
+Description,Larger lunar elliptic diurnal constituent
+Phase,33.3
+Name,Q1
+Speed,13.398661
+Amplitude,0.025
+Constituent #,27
+Description,Larger solar elliptic constituent
+Phase,280.1
+Name,T2
+Speed,29.958933
+Amplitude,0.005
+Constituent #,28
+Description,Smaller solar elliptic constituent
+Phase,108.7
+Name,R2
+Speed,30.041067
+Amplitude,0.007
+Constituent #,29
+Description,Larger elliptic diurnal
+Phase,38.0
+Name,2Q1
+Speed,12.854286
+Amplitude,0.004
+Constituent #,30
+Description,Solar diurnal constituent
+Phase,66.7
+Name,P1
+Speed,14.958931
+Amplitude,0.061
+Constituent #,31
+Description,Shallow water semidiurnal constituent
+Phase,161.5
+Name,2SM2
+Speed,31.015896
+Amplitude,0.001
+Constituent #,32
+Description,Lunar terdiurnal constituent
+Phase,350.3
+Name,M3
+Speed,43.47616
+Amplitude,0.002
+Constituent #,33
+Description,Smaller lunar elliptic semidiurnal constituent
+Phase,316.4
+Name,L2
+Speed,29.528479
+Amplitude,0.005
+Constituent #,34
+Description,Shallow water terdiurnal constituent
+Phase,0.0
+Name,2MK3
+Speed,42.92714
+Amplitude,0.0
+Constituent #,35
+Description,Lunisolar semidiurnal constituent
+Phase,300.7
+Name,K2
+Speed,30.082138
+Amplitude,0.015
+Constituent #,36
+Description,Shallow water eighth diurnal constituent
+Phase,0.0
+Name,M8
+Speed,115.93642
+Amplitude,0.0
+Constituent #,37
+Description,Shallow water quarter diurnal constituent
+Phase,261.6
+Name,MS4
+Speed,58.984104
+Amplitude,0.003
