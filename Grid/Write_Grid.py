@@ -45,16 +45,16 @@ def write_grid(myGrid,fileOut):
         elif(np.in1d(myGrid.IBTYPE[k],np.asarray([3,13,23]))):
             #print("Writing flow over a weir out of the domain Boundary Type[3,13,33].")
             for j in np.arange(0,myGrid.NVELL[k],dtype = int):
-                f.write('%d\n' %(myGrid.NBVV[k,j]),myGrid.BARLANHT[k,j],myGrid.BARLANCFSP[k,j] )
+                f.write('%d %.3f %.3f\n' %(myGrid.NBVV[k,j]),myGrid.BARLANHT[k,j],myGrid.BARLANCFSP[k,j] )
         elif(np.in1d(myGrid.IBTYPE[k],np.asarray([4,24]))):
             #print('Writing interior levees information for IBTYPE[4,24].')
             for j in np.arange(0,myGrid.NVELL[k],dtype = int):
-                f.write('%d %d %d %d %d\n' %(myGrid.NBVV[k,j],myGrid.IBCONN[k,j],
+                f.write('%d %d %.3f %.3f %.3f\n' %(myGrid.NBVV[k,j],myGrid.IBCONN[k,j],
                         myGrid.BARINHT[k,j],myGrid.BARINCFSB[k,j],myGrid.BARINCFSP[k,j]))
         elif(np.in1d(myGrid.IBTYPE[k],np.asarray([5,25]))):
             #print("Writing interior levees with cross-barrier pipes[5,25].")
             for j in np.arange(0,myGrid.NVELL[k],dtype = int):
-                f.write('%d %d %d %d %d\n' %(myGrid.NBVV[k,j],myGrid.IBCONN[k,j],
+                f.write('%d %d %.3f %.3f %.3f\n' %(myGrid.NBVV[k,j],myGrid.IBCONN[k,j],
                         myGrid.BARINHT[k,j],myGrid.BARINCFSB[k,j],myGrid.BARINCFSP[k,j],
                         myGrid.PIPEHT[k,j],myGrid.PIPECOEF[k,j],myGrid.PIPEDIAM[k,j]))
     print('Land Boundaries Written!')
